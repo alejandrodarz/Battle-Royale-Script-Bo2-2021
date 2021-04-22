@@ -9,3 +9,5 @@ server is turned off by means of the log, recover the money from the bank player
 its use they only have to have the python installed and run it from the same place where it is located, they cannot move 
 it from place. I must emphasize that this battleroyale is for teams of 3 for a maximum of 6 teams and to match them in 
 the same team they must put the same CLAN or CLANTAG. Hope you like it and can edit the script all you want. Greetings
+
+All maps work and almost all are enlarged
